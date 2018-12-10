@@ -6,7 +6,7 @@ Calculate simple LTV using equation: `52(a) x t`. `t` is 10 years here. `a` = cu
 
 ## Running
 Run the script from the project home directory as given in the sample example:
-`python shutterfly_ltv.py -i input/events.txt -x 5 -o output/output.txt`
+`python src/shutterfly_ltv.py -i input/events.txt -x 5 -o output/output.txt`
 
 You can change value of x to fetch top x customers with the highest ltv.
 
