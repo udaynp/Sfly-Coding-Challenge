@@ -1,4 +1,4 @@
-# Shutterfly-Customer-Lifetime-Value
+# Sfly-Customer-Lifetime-Value
 Coding challenge from shutterfly.
 
 ## Overview
